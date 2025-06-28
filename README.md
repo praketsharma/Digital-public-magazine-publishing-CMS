@@ -1,1 +1,1 @@
-# Digital-public-magazine-publishing-CMS
+# Digital-public-magazine-publishing-CMS assignment project
